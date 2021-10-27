@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+## Welcome to Wyrn's Commands
 
-You can use the [editor on GitHub](https://github.com/Azrenix/commands/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Fun
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- !games: Shows all the games currently playable in chat
+- !gems: Shows how many gems you have in chat
+- !givegems | !give gems: Give your hard earned gems to someone else
+- !topgems | !leaderboard: See who is the richest currently
+- !d20: Roll a 20 sided dice!
+- !love: See how much you really love someone
+- !slap: Hit em where it hurts
+- !spank: You know where this goes ;)
+- !watchtime: How many hours you've supported us on Twitch
 
-### Markdown
+## Other
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- !arrive: Let chat know you're here
+- !azzy: Some good clips
+- !ban: When you wanna get rid of someone
+- !bonk: Send someone straight to jail
+- !builds: For my current Dauntless builds
+- !charity: (if applicable) for the current charity we're supporting
+- !cya: Say goodbye to someone in chat
+- !discord: Come hang out with us!
+- !hp (Headpats): Give loving headpats to someone
+- !hug: Give someone a loving hug
+- !lurk: When real life calls
+- !of (Only Fans): For some spicy content ;)
+- !podcast: A podcast by yours truly, give it a listen!
+- !probe: Umm...yeah...
+- !sr (Stream Raiders): We need your units, come join us!
+- !srhelp: If you're new and need help with Stream Raiders
+- !thicc: Than a bowl of oatmeal
+- !torg: An epic tale 
+- !twitter: Come follow me on the bird app
+- !unlurk: Welcome back to the better Twitch world
+- !wf: Warframe Referral
+- !yt (YouTube): Come check out my recent videos!
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Azrenix/commands/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
