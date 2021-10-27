@@ -2,15 +2,15 @@
 
 ## Fun
 
-- !games: Shows all the games currently playable in chat
-- !gems: Shows how many gems you have in chat
-- | !givegems !give gems: Give your hard earned gems to someone else
-- !topgems | !leaderboard: See who is the richest currently
-- !d20: Roll a 20 sided dice!
-- !love: See how much you really love someone
-- !slap: Hit em where it hurts
-- !spank: You know where this goes ;)
-- !watchtime: How many hours you've supported us on Twitch
+- |!games: Shows all the games currently playable in chat
+- |gems: Shows how many gems you have in chat
+- | !givegems, !give gems: Give your hard earned gems to someone else
+- |!topgems | !leaderboard: See who is the richest currently
+- |!d20: Roll a 20 sided dice!
+- |!love: See how much you really love someone
+- |!slap: Hit em where it hurts
+- |!spank: You know where this goes ;)
+- |!watchtime: How many hours you've supported us on Twitch
 
 ## Other
 
