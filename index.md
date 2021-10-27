@@ -14,27 +14,27 @@
 
 ## Other
 
-- !arrive: Let chat know you're here
-- !azzy: Some good clips
-- !ban: When you wanna get rid of someone
-- !bonk: Send someone straight to jail
-- !builds: For my current Dauntless builds
-- !charity: (if applicable) for the current charity we're supporting
-- !cya: Say goodbye to someone in chat
-- !discord: Come hang out with us!
-- !hp (Headpats): Give loving headpats to someone
-- !hug: Give someone a loving hug
-- !lurk: When real life calls
-- !of (Only Fans): For some spicy content ;)
-- !podcast: A podcast by yours truly, give it a listen!
-- !probe: Umm...yeah...
-- !sr (Stream Raiders): We need your units, come join us!
-- !srhelp: If you're new and need help with Stream Raiders
-- !thicc: Than a bowl of oatmeal
-- !torg: An epic tale 
-- !twitter: Come follow me on the bird app
-- !unlurk: Welcome back to the better Twitch world
-- !wf: Warframe Referral
-- !yt (YouTube): Come check out my recent videos!
+| !arrive: Let chat know you're here
+| !azzy: Some good clips
+| !ban: When you wanna get rid of someone
+| !bonk: Send someone straight to jail
+| !builds: For my current Dauntless builds
+| !charity: (if applicable) for the current charity we're supporting
+| !cya: Say goodbye to someone in chat
+| !discord: Come hang out with us!
+| !hp (Headpats): Give loving headpats to someone
+| !hug: Give someone a loving hug
+| !lurk: When real life calls
+| !of (Only Fans): For some spicy content ;)
+| !podcast: A podcast by yours truly, give it a listen!
+| !probe: Umm...yeah...
+| !sr (Stream Raiders): We need your units, come join us!
+| !srhelp: If you're new and need help with Stream Raiders
+| !thicc: Than a bowl of oatmeal
+| !torg: An epic tale 
+| !twitter: Come follow me on the bird app
+| !unlurk: Welcome back to the better Twitch world
+| !wf: Warframe Referral
+| !yt (YouTube): Come check out my recent videos!
 
 ```markdown
