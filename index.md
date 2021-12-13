@@ -12,6 +12,11 @@
 |!spank: You know where this goes ;)
 |!watchtime: How many hours you've supported us on Twitch
 
+## Sound Effects (Subscribers)
+
+|!sheesh
+|!bruh
+
 ## Other
 
 | !arrive: Let chat know you're here
