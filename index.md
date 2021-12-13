@@ -11,6 +11,7 @@
 |!slap: Hit em where it hurts
 |!spank: You know where this goes ;)
 |!watchtime: How many hours you've supported us on Twitch
+|!followage: How long you've been with us
 
 ## Sound Effects (Subscribers)
 
