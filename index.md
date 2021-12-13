@@ -42,3 +42,4 @@
 | !unlurk: Welcome back to the better Twitch world
 | !wf: Warframe Referral
 | !yt (YouTube): Come check out my recent videos!
+| !dont, don't: We don't do that here (Black Panther)
