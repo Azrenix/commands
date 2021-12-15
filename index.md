@@ -12,6 +12,7 @@
 |!spank: You know where this goes ;)
 |!watchtime: How many hours you've supported us on Twitch
 |!followage: How long you've been with us
+!!subage: How long you've been a sub for
 
 ## Sound Effects (Subscribers)
 
