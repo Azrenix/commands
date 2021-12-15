@@ -1,5 +1,3 @@
-## Welcome to Wyrn's Commands
-
 ## Fun
 
 |!games: Shows all the games currently playable in chat
