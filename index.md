@@ -17,6 +17,8 @@
 
 |!sheesh
 |!bruh
+|!bust
+|!kazeda
 
 ## Other
 
