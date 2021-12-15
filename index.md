@@ -20,6 +20,10 @@
 |!bruh
 |!bust
 |!kazeda
+|!2000
+|!mission
+|!owo
+|!fine
 
 ## Other
 
