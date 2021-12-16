@@ -24,6 +24,7 @@
 |!mission
 |!owo
 |!fine
+|!nope
 
 ## Other
 
