@@ -16,7 +16,7 @@
 
 ## Sound Effects (Subscribers)
 
-|!sheesh
+|!sheesh |!ayo
 |!bruh
 |!bust
 |!kazeda
@@ -25,6 +25,7 @@
 |!owo
 |!fine
 |!nope
+
 
 ## Other
 
