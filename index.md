@@ -17,15 +17,14 @@
 ## Sound Effects (Subscribers)
 
 |!sheesh |!ayo
-|!bruh
-|!bust
+|!bruh   |!dodge
+|!bust   |!dodge2, !wrench
 |!kazeda
 |!2000
 |!mission
 |!owo
 |!fine
 |!nope
-
 
 ## Other
 
