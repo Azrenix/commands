@@ -35,6 +35,7 @@
 | !builds: For my current Dauntless builds
 | !charity: (if applicable) for the current charity we're supporting
 | !cya: Say goodbye to someone in chat
+| !dont, don't: We don't do that here (Black Panther)
 | !discord: Come hang out with us!
 | !hp (Headpats): Give loving headpats to someone
 | !hug: Give someone a loving hug
@@ -50,4 +51,3 @@
 | !unlurk: Welcome back to the better Twitch world
 | !wf: Warframe Referral
 | !yt (YouTube): Come check out my recent videos!
-| !dont, don't: We don't do that here (Black Panther)
