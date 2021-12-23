@@ -2,6 +2,7 @@
 
 ## Fun
 
+|!8ball: Ask our very own Wyrn for advice
 |!games: Shows all the games currently playable in chat
 |!gems: Shows how many gems you have in chat
 |!givegems, !give gems: Give your hard earned gems to someone else
