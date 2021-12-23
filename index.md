@@ -19,7 +19,7 @@
 |!sheesh |!ayo
 |!bruh   |!dodge
 |!bust   |!dodge2, !wrench
-|!kazeda
+|!kazeda |!shrimp
 |!2000
 |!mission
 |!owo
