@@ -20,8 +20,8 @@
 |!bruh   |!dodge
 |!bust   |!dodge2, !wrench
 |!kazeda |!shrimp
-|!2000
-|!mission
+|!2000   |!bigdeal (VIP)
+|!mission  |!fu
 |!owo
 |!fine
 |!nope
