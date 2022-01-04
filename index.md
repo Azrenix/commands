@@ -23,9 +23,9 @@
 |!kazeda |!shrimp
 |!2000   |!bigdeal (VIP)
 |!mission  |!fu
-|!owo
-|!fine
-|!nope
+|!owo    |!damage
+|!fine   |!sometimes
+|!nope   |!84
 
 ## Other
 
