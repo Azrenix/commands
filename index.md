@@ -26,6 +26,8 @@
 |!owo    |!damage
 |!fine   |!sometimes
 |!nope   |!84
+|!danger |!moment
+|!walle
 
 ## Other
 
