@@ -14,6 +14,7 @@
 |!watchtime: How many hours you've supported us on Twitch
 |!followage: How long you've been with us
 |!subage: How long you've been a sub for
+|!toptime: Who's watched the longest
 
 ## Sound Effects (Subscribers)
 
@@ -27,7 +28,7 @@
 |!fine   |!sometimes
 |!nope   |!84
 |!danger |!moment
-|!walle
+|!walle  |!good
 
 ## Other
 
